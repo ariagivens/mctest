@@ -1,0 +1,5 @@
+{ "pack":
+    { "description": "An mctest pack with simple tests" 
+    , "pack_format": 18
+    }
+}
